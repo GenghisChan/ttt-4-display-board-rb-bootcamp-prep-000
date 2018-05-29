@@ -2,7 +2,7 @@
 # out the current state.
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(mark)
-  "   |   |   "
+  " #{mark[0]}  |   |   "
   "-----------"
   "   |   |   "
   "-----------"
